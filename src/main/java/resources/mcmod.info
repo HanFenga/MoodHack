@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "mood",
+    "name": "Mood",
+    "description": "MoodHack!",
+    "version": "0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "niggahack.png",
+    "url": "https://discordapp.com/invite/WcAx3ps",
+    "updateUrl": "",
+    "authorList": [
+      "Hanfeng",
+      "BlackHIG",
+      "ZheBuShiGudu",
+      "XuFangGGG"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
